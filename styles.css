@@ -9,4 +9,6 @@ table,th,td,tr{
 	 border-collapse: collapse;
 }
 
-
+td:{
+	width:700px;
+}
