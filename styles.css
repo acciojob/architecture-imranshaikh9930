@@ -1,14 +1,15 @@
 /*  your css code here. If applicable */
 
 *{
-/* 	width:1100px; */
+
+	background:gray;
 		
+}
+img:first-child{
+	padding:2rem 0;
 }
 table,th,td,tr{
 	border:1px solid black;
 	 border-collapse: collapse;
 }
 
-td:{
-	width:700px;
-}
